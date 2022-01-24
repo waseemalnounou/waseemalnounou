@@ -1,12 +1,11 @@
 
 {
 I'm:"@waseemalnounou",
-interested:["web development","mobile development"],
+interested:["mern stack","flutter","IOT"],
 Contact Details: {
-email:"waseem.alnono@gmail.com",
-phone:"01137225116"
+email:"waseem-alnounou@hotmail.com",
+phone:"+61 404653013"
 },
-
 }
 
 <!---
