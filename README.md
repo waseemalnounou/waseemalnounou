@@ -1,10 +1,9 @@
 
 {
-I'm:"@waseemalnounou",
-interested:["mern stack","flutter","IOT"],
-Contact Details: {
-email:"waseem-alnounou@hotmail.com",
-phone:"+61 404653013"
+name:"waseem alnounou",
+Tech:["MERN",".Net Core","flutter","IOT"],
+contactDetails: {
+email:"waseem.alnounou.au@gmail.com",
 },
 }
 
