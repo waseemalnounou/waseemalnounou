@@ -1,6 +1,6 @@
 
 {
-name:"waseem alnounou",
+name:"Waseem Alnounou",
 Tech:["MERN",".Net Core","flutter","IOT"],
 contactDetails: {
 email:"waseem.alnounou.au@gmail.com",
